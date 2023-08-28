@@ -1,4 +1,5 @@
 #Mobiz Application
+
 The Mobiz application is a full-stack web application built using React, Redux, Tailwind CSS for the frontend, and Node.js with Express for the backend. It includes JWT-based authentication for user authentication and authorization.
 
 #Features
